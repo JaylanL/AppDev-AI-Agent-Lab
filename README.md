@@ -10,11 +10,14 @@
     * Use a tool to fetch real data from an API
     * Reason over that data and return an accurate response
 
-    Themes: Music, Games, or Anime
+    Themes: API
+		Music : Last.fm
+		Games : RAWG
+		Anime : Jikan
         You will build your agent around one fo these themses
     Goal: Understand how agents work under the hood. Doesn't necessarily have to be perfect. THIS IS A VERY BARE BONES AI AGENT
 
-# STEPS;
+# STEPS:
     1. Cloning the Repo:
         
         
